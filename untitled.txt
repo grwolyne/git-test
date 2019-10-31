@@ -1,1 +1,3 @@
 test hello
+This is a bad error
+hello
